@@ -8,7 +8,7 @@
  
 This repo takes two text files in the source and target languages, and returns sentences that are most likely translations of each other.
 
-Before running, create an account on [cohere](https://cohere.com) to get your api key.
+Before running, kindly create an account on [cohere](https://cohere.com) to get your api key.
 
 Then install cohere, using the following command
 
