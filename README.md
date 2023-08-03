@@ -16,7 +16,7 @@ Then install cohere, using the following command
 pip install cohere
 ```
 
-To align sentences, create two text files, with each line containing a distinct text, for the source and target languages. Afterwards , run the following command.
+To align sentences, create two text files, with each line containing a distinct text, for the source and target languages. Afterwards , run the following command: 
 
 ### Cohere
 ```
